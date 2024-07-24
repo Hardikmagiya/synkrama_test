@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71599450965",
+    "project_id": "auth-63c84",
+    "storage_bucket": "auth-63c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71599450965:android:7bae2f2738deb35c049ddc",
+        "android_client_info": {
+          "package_name": "com.app.synkrama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71599450965-iqnql89chb135riu96sq48iaj45ic7up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.synkrama",
+            "certificate_hash": "f8d8b7420698eb159d0e068139f9778a6dc3d297"
+          }
+        },
+        {
+          "client_id": "71599450965-fk674c44d69j1p3btrr58gcjbbld1jik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9deiQQCDvmDmwLjnVI9aiGRZdT49UeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71599450965-fk674c44d69j1p3btrr58gcjbbld1jik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
